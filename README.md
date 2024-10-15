@@ -14,7 +14,8 @@ A sleek and functional to-do list application built using Unity and C#, designed
 - Clean separation between logic (C# backend) and UI (Unity) using the MVP design pattern.
 - Fully extendable for future improvements, such as notifications or calendar integration
 - Designed with Unity's UI toolkit for a smooth and responsive interface
-- Planned Improvements
+
+## Planned Improvements
 - Customizable themes and layouts
 - Push notifications for approaching deadlines
 - Cloud sync functionality to manage tasks across devices
