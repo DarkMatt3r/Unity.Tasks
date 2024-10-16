@@ -1,0 +1,13 @@
+//
+// Copyright © 2024 Dark Matt3r Studios LLC. All rights reserved.
+//
+
+    #ROOTNAMESPACEBEGIN#
+/// <summary>
+/// #SCRIPTNAME#
+/// </summary>
+public interface #SCRIPTNAME#
+{
+    
+}
+#ROOTNAMESPACEEND#

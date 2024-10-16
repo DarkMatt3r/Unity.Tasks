@@ -1,0 +1,15 @@
+//
+// Copyright © 2024 Dark Matt3r Studios LLC. All rights reserved.
+//
+
+using UnityEngine;
+
+    #ROOTNAMESPACEBEGIN#
+/// <summary>
+/// #SCRIPTNAME#
+/// </summary>
+public class #SCRIPTNAME# : MonoBehaviour
+{
+    
+}
+#ROOTNAMESPACEEND#

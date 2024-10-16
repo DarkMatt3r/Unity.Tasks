@@ -1,0 +1,16 @@
+//
+// Copyright © 2024 Dark Matt3r Studios LLC. All rights reserved.
+//
+
+using System;
+
+    #ROOTNAMESPACEBEGIN#
+/// <summary>
+/// #SCRIPTNAME#
+/// </summary>
+[Serializable]
+public class #SCRIPTNAME#
+{
+    
+}
+#ROOTNAMESPACEEND#

@@ -1,0 +1,19 @@
+//
+// Copyright © 2024 Dark Matt3r Studios LLC. All rights reserved.
+//
+
+using NUnit.Framework;
+
+    #ROOTNAMESPACEBEGIN#
+/// <summary>
+/// #SCRIPTNAME#
+/// </summary>
+public class #SCRIPTNAME#
+{
+    [Test]
+    public void #SCRIPTNAME#_IsTrue()
+    {
+        Assert.IsTrue(true);
+    }
+}
+#ROOTNAMESPACEEND#

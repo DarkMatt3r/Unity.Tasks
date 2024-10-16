@@ -1,0 +1,16 @@
+//
+// Copyright © 2024 Dark Matt3r Studios LLC. All rights reserved.
+//
+
+using UnityEngine;
+
+    #ROOTNAMESPACEBEGIN#
+/// <summary>
+/// #SCRIPTNAME#
+/// </summary>
+[CreateAssetMenu(menuName = "Create New #SCRIPTNAME#", fileName = "New#SCRIPTNAME#", order = 0)]
+public class #SCRIPTNAME# : ScriptableObject
+{
+    
+}
+#ROOTNAMESPACEEND#
